@@ -1,6 +1,6 @@
 **Depth Estimation from Face Width using OpenCV and FaceMesh**
 
-This Python script, made by Riza Mohamed, utilizes the OpenCV library along with the FaceMesh detection module to estimate the depth of a human face from a webcam feed. 
+This Python script, made by Riza , utilizes the OpenCV library along with the FaceMesh detection module to estimate the depth of a human face from a webcam feed. 
 The code captures video frames from the webcam, detects a face using FaceMesh, and calculates the depth of the face based on the width of the detected face in the image.
 The calculated depth is then displayed on the image frame in centimeters.
 
