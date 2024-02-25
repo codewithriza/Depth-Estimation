@@ -1,4 +1,4 @@
-#Made by Riza Mohamed T
+#Made by findkeys
 import cv2
 import cvzone
 from cvzone.FaceMeshModule import FaceMeshDetector
