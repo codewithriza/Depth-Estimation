@@ -32,11 +32,11 @@ This Python script utilizes the OpenCV library along with the FaceMesh detection
 ## Notes
 - Camera Calibration: Ensure that the camera is calibrated and the known focal length and face width are accurately provided for accurate depth estimation.
 
-## Contact Me
-
-If you have any questions, suggestions, or issues with the tool, feel free to contact me on Discord: [findkeys](https://discord.com/users/840848369484169266).
-
 - Customization: The script can be customized for different camera setups and face sizes by adjusting the known face width (W) and focal length (f) values.
 
 - Feel free to customize the script further for your specific needs.
+
+## Contact Me
+
+If you have any questions, suggestions, or issues with the tool, feel free to contact me on Discord: [findkeys](https://discord.com/users/840848369484169266).
 
