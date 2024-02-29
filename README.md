@@ -26,6 +26,8 @@ This Python script utilizes the OpenCV library along with the FaceMesh detection
    ```bash
    pip install opencv-python cvzone
 2. Run the Script: Run the Python script `main.py` . A window will open displaying the webcam feed with annotated depth information on the detected face.
+   ```bash
+   python3 main.py
 
 ## Notes
 - Camera Calibration: Ensure that the camera is calibrated and the known focal length and face width are accurately provided for accurate depth estimation.
